@@ -17,8 +17,8 @@ import hashlib
 from threading import Lock
 
 from .models import (
-    Base, Signal, Trade, Performance, MarketData, 
-    PortfolioSnapshot, RiskMetrics
+    Base, Signal, Trade, PerformanceMetrics, MarketData, 
+    SignalPerformance, BacktestResult
 )
 from utils.logger import get_logger
 from utils.helpers import generate_cache_key
@@ -427,7 +427,7 @@ class DatabaseManager:
         """Salva snapshot de performance"""
         try:
             with self.get_session() as session:
-                performance = Performance(**performance_data)
+                performance = PerformanceMetrics(**performance_data)
                 session.add(performance)
                 session.flush()
                 performance_id = performance.id

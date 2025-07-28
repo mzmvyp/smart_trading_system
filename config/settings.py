@@ -333,3 +333,75 @@ def is_paper_mode() -> bool:
 def is_backtest_mode() -> bool:
     """Verifica se está em modo backtest"""
     return settings.MODE == "backtest"
+
+# === FUNÇÕES UTILITÁRIAS ===
+
+def load_config(config_path: str = "config/config.json") -> TradingConfig:
+    """
+    Carrega configuração de arquivo JSON ou retorna configuração padrão
+    
+    Args:
+        config_path: Caminho para arquivo de configuração
+        
+    Returns:
+        TradingConfig: Instância da configuração
+    """
+    import json
+    import os
+    
+    if os.path.exists(config_path):
+        try:
+            with open(config_path, 'r', encoding='utf-8') as f:
+                config_data = json.load(f)
+            
+            # Cria instância com configurações customizadas
+            config = TradingConfig()
+            
+            # Atualiza com dados do arquivo (se necessário)
+            for key, value in config_data.items():
+                if hasattr(config, key):
+                    setattr(config, key, value)
+            
+            return config
+            
+        except Exception as e:
+            print(f"Erro ao carregar configuração de {config_path}: {e}")
+            print("Usando configuração padrão...")
+    
+    # Retorna configuração padrão
+    return TradingConfig()
+
+
+def save_config(config: TradingConfig, config_path: str = "config/config.json") -> bool:
+    """
+    Salva configuração em arquivo JSON
+    
+    Args:
+        config: Instância da configuração
+        config_path: Caminho para salvar o arquivo
+        
+    Returns:
+        bool: True se salvou com sucesso
+    """
+    import json
+    import os
+    
+    try:
+        os.makedirs(os.path.dirname(config_path), exist_ok=True)
+        
+        # Converte para dicionário
+        config_dict = {}
+        for attr in dir(config):
+            if not attr.startswith('_'):
+                value = getattr(config, attr)
+                if not callable(value):
+                    config_dict[attr] = value
+        
+        with open(config_path, 'w', encoding='utf-8') as f:
+            json.dump(config_dict, f, indent=2, ensure_ascii=False)
+        
+        return True
+        
+    except Exception as e:
+        print(f"Erro ao salvar configuração: {e}")
+        return False
