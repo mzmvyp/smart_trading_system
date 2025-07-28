@@ -333,8 +333,13 @@ TIER_CLASSIFICATION = {
 # === FUNÇÕES UTILITÁRIAS ===
 
 def get_active_symbols() -> List[str]:
-    """Retorna lista de símbolos ativos"""
+    """Retorna lista de símbolos ativos para análise"""
     return [symbol for symbol, config in CRYPTO_SYMBOLS.items() if config.is_active]
+
+# Add alias for compatibility with main.py
+def get_enabled_symbols() -> List[str]:
+    """Alias for get_active_symbols for compatibility"""
+    return get_active_symbols()
 
 def get_symbols_by_tier(tier: int) -> List[str]:
     """Retorna símbolos por tier (1, 2, 3)"""
