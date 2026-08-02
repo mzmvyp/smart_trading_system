@@ -1,11 +1,12 @@
 # Comparativo revisado: Itupeva (via Bandeirantes) × Granja Viana × Sorocaba
 
-**Versão 3 — agosto/2026.** Incorpora o roteiro real do casal:
+**Versão 4 — agosto/2026.** Incorpora o roteiro real do casal + cotação de **fretado** + nuance da Granja por **km da Raposo** (km 26):
 - Deixar Jaqueline na FSB (Itaim) às **10h30** → seguir para Claro (Verbo Divino) → sair às **20h** → pegar na FSB → casa.
 - **3×/semana** no mesmo carro (não 3+2 separados).
 - Troca **Audi A3 1.4 2017 → Haval H6 HEV2** (este mês); casa em **3–4 anos**.
+- Orçamento de aquisição atualizado na conversa: ideal **R$ 1,3 mi**, teto **R$ 1,5 mi** (trechos antigos das §§1–9 ainda citam R$ 1,7 mi como baseline v2).
 
-Versões anteriores: v1 (Castello) superada; v2 (Bandeirantes + parecer). Seções 1–9 abaixo ainda têm o baseline antigo; **a decisão deve usar a §0 (cenário real)**.
+Versões anteriores: v1 (Castello) · v2 (Bandeirantes) · v3 (roteiro 10h30/20h). **Decisão: §0 + §0.5 (fretado) + §0.6 (km 26).**
 
 ---
 
@@ -90,6 +91,54 @@ Pedágio: **1 praça** ida + 1 volta ≈ **R$ 28,60–29,00/dia** (Motiva Autoba
 Com o H6 e 3×/semana, **Itupeva e Sorocaba empatam em boleto**; Itupeva ganha em tempo (~1h a menos de volante/dia) e qualidade de pista. Granja continua mais barata em ~R$ 1.300/mês — preço que você paga por **menos casa/terreno** no teto de R$ 1,7 mi.
 
 Comparado ao A3 1.4 no mesmo roteiro Itupeva (~9 km/l misto congestionado/rodovia): combustível cairia de ~R$ 1.680 para ~R$ 1.258 (−~R$ 420/mês) só na troca do carro, além da isenção de rodízio.
+
+### 0.5 Fretado — tem? quanto sai?
+
+**Resumo:** Itupeva tem a malha **mais clara** (Assuex). Sorocaba tem preços públicos em agregadores. Granja/Cotia é **mais opaca** (muito B2B / linha fechada). Em nenhum dos três o fretado “clássico” casa com o roteiro **sair da Claro às 20h** — as voltas saem de SP ~16h50–17h30.
+
+| Lugar | Empresa / canal | Destinos úteis | Preço público | Contato |
+|---|---|---|---|---|
+| **Itupeva** | **Assuex** (sede também em Itupeva) | Faria Lima / Vl. Olímpia; Berrini / CENESP (passa **Verbo Divino** ~07:24); Alphaville | **Não publica** — cotar | WhatsApp (11) 99914-2884 / (11) 94246-2884 · assuex.com.br |
+| **Proxy Jundiaí** (mesmo corredor Anhanguera/Bandeirantes) | AFRECASP mensalista | Zona Sul / Paulista etc. | **R$ 820/mês** ida+volta | afrecasp.com.br (ago/2026) |
+| **Proxy Campinas** | AFRECASP | idem | **R$ 890/mês** | idem |
+| **Sorocaba** | Fretadão (linhas abertas listadas) | Barueri / Alphaville / Barra Funda–Sumaré | **R$ 600–1.000/mês** ida+volta | fretadao / AlphaFretados / Gold |
+| **Sorocaba** (site antigo Pedroso) | “Fretamento Sorocaba–SP” | SP genérico | R$ 520 ida+volta (página ©2013 — **desatualizada**) | só referência histórica |
+| **Granja / Cotia / Raposo** | Várias (Galoni Van B2B; Alphaville Fretado atende Raposo→Alphaville/Berrini; vans locais) | Berrini / Vl. Olímpia / Alphaville | **Sem tabela pública confiável** | Cotar WhatsApp local / Cadê Meu Fretado |
+
+**Faixa que eu usaria para planejamento (até cotar de verdade):**
+
+| Origem → eixo Berrini/Faria Lima | Faixa mensalista ida+volta | Confiança |
+|---|---|---|
+| Itupeva (Assuex) | **~R$ 750–950** (âncora: AFRECASP Jundiaí R$ 820) | Média — Assuex não publica; corredor parecido |
+| Granja km 21–26 | **~R$ 450–750** se achar linha aberta; muitas vezes só corporativo | Baixa |
+| Sorocaba | **R$ 600–1.000** (dados Fretadão) | Alta nos destinos listados; Berrini/Itaim pode ficar no topo ou exigir integração |
+
+**Horários Assuex que importam para vocês** (site, ago/2026):
+
+- **Faria Lima × Vl. Olímpia:** embarque **Ibi Aram 1 e 2 (Itupeva) 04:55**; volta sai Faria Lima **17:20** → Ibi Aram **~19:15**.
+- **Berrini × CENESP:** chega Berrini ~06:58, **Verbo Divino ~07:24**, CENESP 07:35; volta começa CENESP **16:50** / Market Place **17:20**.
+
+**Encaixe com o roteiro de vocês:** fraco. Vocês precisam chegar Itaim **10h30** e sair Claro **20h**. O fretado é feito para quem chega ~07h–08h e volta ~17h–18h. Serve como **plano B** (um de vocês indo sozinho em horário de escritório, ou se o presencial mudar) — não como substituto do carro compartilhado 10h30/20h.
+
+### 0.6 Granja não é um lugar só — o km 26 é o “miolo bonito”
+
+Sim: a Granja “de anúncio bonito” que você vê costuma ser o eixo **km 26–26,5** da Raposo. A região inteira vai do ~**km 20 ao km 30** (Encontra Granja / Bossa Nova Sotheby’s). O km muda o produto:
+
+| Faixa Raposo | O que é | Exemplos (portal granjaviana.com.br) | Sensação |
+|---|---|---|---|
+| **km 21–22** | Mais perto da capital / Rodoanel; comércio novo | Petit Village, Via Appia, Villagio da Granja, The Square / Av. São Camilo por perto | Mais “urbano”, acesso rápido a SP, menos “fazenda” |
+| **km 23–24** | Volume grande de condomínios médios | Horizontal Park, Pinus Park, San Diego, Euroville, miolo | Onde aparecem mais opções no teto R$ 1,3–1,5 mi |
+| **km 26–26,5** | **Cluster “premium de marketing”** | **SP II, Granja II**, Haras Guancan, Pq das Artes, Vl. Real do Moinho Velho; Shopping Granja Viana / mercado SP II | Casas grandes, verde, o visual que você está vendo nos anúncios |
+| **km 28–30** | Mais longe / misto | São Fernando Golf, Forest Hill, Colinas de São Fernando | Às vezes mais terreno; +5–10 min vs km 26 |
+
+**Implicações para vocês (teto ~R$ 1,5 mi):**
+
+1. **km 26 é o pedaço certo se o critério for “parecer Granja de revista”** — SP II, Granja II e vizinhos. Mas nesse km o produto **acabado e novo** facilmente passa de R$ 2–3 mi; no orçamento entram mais casas **antigas / a reformar** ou compactas (há anúncios ~R$ 1,0–1,4 mi perto do km 26, porém heterogêneos).
+2. **km 23** (Horizontal Park, Pinus etc.) é onde o comparativo antigo achava mais oferta no teto — menos glamour de anúncio, mais chance de fechar negócio sem reforma pesada.
+3. **Tempo vs km 21:** km 26 → capital são ~**5 km a mais** na Raposo (~5–15 min conforme trânsito). No roteiro 10h30/20h a diferença é pequena frente ao ganho de “bairro”; no pico 07:30 dói mais.
+4. Pedágio continua **R$ 0** em qualquer km da Granja até a capital (free-flow da Raposo começa bem depois, ~km 48 São Roque).
+
+**Leitura:** se Granja for plano B, filtre anúncios por **acesso km 26** (ou aceite km 23 conscientemente). Não compare “Granja genérica” com Itupeva — compare **SP II / Granja II no orçamento** com **Ibi Aram / Gran Ville / Pecan**.
 
 ### 0.3 Internet em Itupeva — é ruim?
 
@@ -218,11 +267,15 @@ AutoBAn (iG, 2025): fluxo intenso interior→capital desde ~5h até ~19h. Por is
 **Km:** ~95–105.  
 **Tempos sintetizados:** 1h45–3h15 conforme janela; pior do trio de forma estável.
 
-### 2.4 Fretado / TP / rodízio (inalterado em substância)
+### 2.4 Fretado / TP / rodízio
 
-- **Assuex:** fretado aberto Itupeva/Jundiaí → Berrini, Faria Lima, Alphaville etc. Preço mensal sob consulta — **cotar antes de decidir**.
+Detalhe e tabela de preços → **§0.5**. Em resumo:
+
+- **Itupeva:** Assuex com parada em Ibi Aram e linha Berrini/Verbo Divino; preço sob consulta; proxy AFRECASP Jundiaí **R$ 820/mês**.
+- **Granja:** sem tabela pública estável; cotar localmente.
+- **Sorocaba:** Fretadão **R$ 600–1.000/mês** em linhas listadas (Alphaville/Barueri/Barra Funda).
 - TP porta-a-porta viável para rotina 3×/semana Santo Amaro: **não** nas três (Sorocaba tem Cometa→Barra Funda ~R$46–50, mas + metrô estoura o tempo).
-- Rodízio SP: 7–10h / 17–20h no Centro Expandido; âncoras dentro; 2 carros ou híbrido PCD resolvem.
+- Rodízio SP: 7–10h / 17–20h no Centro Expandido; H6 HEV isento se emplacado em SP.
 
 ---
 
@@ -256,23 +309,27 @@ AutoBAn (iG, 2025): fluxo intenso interior→capital desde ~5h até ~19h. Por is
 
 ### 3.2 Granja Viana — mais caro por menos produto no mesmo teto
 
+**Mapa por km da Raposo → §0.6.** O “bonito de anúncio” concentra no **km 26** (SP II, Granja II). No teto R$ 1,3–1,5 mi a oferta viável costuma estar mais no **km 23** (Horizontal/Pinus) ou em casas do km 26 que pedem reforma.
+
 | Fonte | R$/m² | Nota |
 |---|---|---|
 | GV Casas Imobiliária | R$ 6.000–12.000 | Marketing local; faixa larga |
 | Anúncios no teto R$ 1,4–1,7 mi | ~R$ 4.200–6.500 | Horizontal Park, Pinus, compactos |
-| Alto padrão (Mediterrâneo etc.) | R$ 7.800–13.000 | **Fora do orçamento** (R$ 4–7 mi) |
+| Alto padrão (Mediterrâneo / SP II novo) | R$ 7.800–13.000 | **Fora do orçamento** (R$ 2–7 mi) |
+| Amostra km 26 (MGF / Cari, 2025–26) | R$ 0,75–3,2 mi | Do compacto ao luxo; no meio (~R$ 1,2 mi) casa antiga/reforma é comum |
 
 **Amostra no orçamento:**
 
 | Preço | O quê | Cond. |
 |---|---|---|
+| R$ 1.200.000 | 4 dorm / 2 suítes, Capuava · perto **km 26** | R$ 800 |
 | R$ 1.400.000 | 216 m² / terreno 252 m², 3 suítes | R$ 760 |
-| R$ 1.400.000 | 180 m², 3 suítes, Pinus Park | R$ 880 |
+| R$ 1.400.000 | 180 m², 3 suítes, Pinus Park (**km 23**) | R$ 880 |
 | R$ 1.480.000 | 350 m², 3 suítes | R$ 895 |
-| R$ 1.600.000 | ~470 m², Horizontal Park | R$ 350 |
+| R$ 1.600.000 | ~470 m², Horizontal Park (**km 23**) | R$ 350 |
 | R$ 1.700.000 | 320 m², 3 suítes, Horizontal Park | R$ 436 |
 
-**Leitura:** dá para morar, mas o **terreno médio é menor**, o acabamento/idade mais heterogêneo, e o “Granja de revista” está acima de R$ 1,7 mi. Sua observação (“mais caros e muito menores”) está **correta** na faixa acessível.
+**Leitura:** dá para morar, mas o **terreno médio é menor**, o acabamento/idade mais heterogêneo, e o “Granja de revista” do **km 26** está em outro patamar. Sua observação (“as mais legais ficam no km 26”) está **correta** — e é exatamente onde o orçamento aperta.
 
 ### 3.3 Sorocaba Campos do Conde II — mais casa, mais longe
 
