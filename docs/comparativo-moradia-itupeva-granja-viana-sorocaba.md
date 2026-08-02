@@ -442,10 +442,10 @@ Itupeva **não** está R$ 211 mil mais barata que a GV no preço de lista — es
 2. **Mesma rotina na Granja** num Horizontal Park / Pinus no teto — comparar estresse, não só o relógio.  
 3. CEP + síndico: ISPs com duto; teste upload/ping; histórico de queda.  
 4. Cotar **Assuex** WhatsApp (11) 99914-2884 — mensalista Itupeva→Berrini/Verbo Divino e Faria Lima (mesmo sabendo que a volta ~17h20 não casa com 20h).
-5. Se olhar Granja a sério: filtrar **km 26** (SP II / Granja II) no teto R$ 1,5 mi **e** comparar com 2–3 do km 23; cotar fretado local só como plano B.  
-5. Vet 24h de madrugada a partir do condomínio.  
-6. Três cães: regimento interno.  
-7. Só depois abrir Sorocaba se (1)–(2) desapontarem.
+5. Se olhar Granja a sério: filtrar **km 26** (SP II / Granja II) no teto R$ 1,5 mi **e** comparar com 2–3 do km 23; cotar fretado local só como plano B.
+6. Vet 24h de madrugada a partir do condomínio.
+7. Três cães: regimento interno.
+8. Só depois abrir Sorocaba se (1)–(2) desapontarem.
 
 ---
 
