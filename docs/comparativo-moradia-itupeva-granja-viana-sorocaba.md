@@ -1,25 +1,141 @@
 # Comparativo revisado: Itupeva (via Bandeirantes) × Granja Viana × Sorocaba
 
-**Versão 2 — agosto/2026.** Refaz a análise v1 com três correções pedidas:
-1. Rota de Itupeva = **Bandeirantes (SP-348)**, não Castello.
-2. Tempos, R$/m² e custos recalculados com **dados próprios da pesquisa** (não o baseline enviesado do prompt anterior).
-3. **Parecer explícito** ao final.
+**Versão 3 — agosto/2026.** Incorpora o roteiro real do casal:
+- Deixar Jaqueline na FSB (Itaim) às **10h30** → seguir para Claro (Verbo Divino) → sair às **20h** → pegar na FSB → casa.
+- **3×/semana** no mesmo carro (não 3+2 separados).
+- Troca **Audi A3 1.4 2017 → Haval H6 HEV2** (este mês); casa em **3–4 anos**.
 
-**Caso:** casal, 3 cães, casa em condomínio, ~R$ 1,7 mi (consórcio 2028–29); Claro Santo Amaro 3×/semana; FSB Berrini 2×/semana; fibra estável = eliminatório.
+Versões anteriores: v1 (Castello) superada; v2 (Bandeirantes + parecer). Seções 1–9 abaixo ainda têm o baseline antigo; **a decisão deve usar a §0 (cenário real)**.
 
 ---
 
-## Parecer (ler primeiro)
+## 0. Parecer no cenário real (10h30 / 20h / H6 HEV / 3× semana)
 
-Para este perfil — **casa + cães + orçamento R$ 1,7 mi + 5 dias presenciais somados na zona sul + home office nos demais** — a ordem que eu usaria hoje é:
+**Ranking mantido e reforçado: 1º Itupeva · 2º Granja · 3º Sorocaba.**
 
-1. **Itupeva (via Bandeirantes)** — melhor equilíbrio imóvel × qualidade da estrada × custo.  
-2. **Granja Viana** — só se aparecer imóvel excepcional no teto **e** o teste de 2 semanas na Raposo não for pior que a Bandeirantes.  
-3. **Sorocaba** — melhor cidade e melhor casa/real, mas o deslocamento até Santo Amaro/Berrini é o mais punitivo; só faz sentido se o presencial cair ou se um dos dois migrar âncora para o interior.
+Este horário é **muito mais favorável** a Itupeva do que o baseline de pico 07:30:
 
-**Por que mudei o peso vs. a v1:** a análise anterior tratou “mais perto em km” (Granja) como vantagem quase automática. Isso é enviesado. A Raposo Tavares entre Cotia e a capital é gargalo crônico (boletins com 10–14 km de fila). A Bandeirantes é sistematicamente melhor em qualidade de pista (CNT top-3 Brasil; Datafolha “melhor estrada” 2026) e o pedágio de Itupeva nela é **uma praça** (~R$ 14,30–14,50), não a soma Castello. No orçamento de R$ 1,7 mi, Itupeva entrega **mais casa e mais terreno** do que a faixa acessível da Granja. Sua leitura de mercado bate com os anúncios.
+| Fator | Efeito |
+|---|---|
+| Chegada Itaim **10h30** | Entra no Centro Expandido **depois** do rodízio da manhã (7–10h); trânsito pós-pico |
+| Saída Claro **20h** | Sai **no fim** do rodízio da tarde (17–20h); rodovia alivia |
+| **H6 HEV2** híbrido | Isento de rodízio (automático se emplacado em SP — Portaria SMT.DSV 009/2019); consumo bem melhor que o A3 |
+| **1 carro / 3 dias** | ~12 idas-voltas/mês (não 20) → custo de deslocamento despenca |
+| Casa daqui **3–4 anos** | Dá tempo de testar a rotina de verdade com o H6 antes de comprar |
 
-**Condição obrigatória para validar Itupeva:** fibra no condomínio-alvo (teste de latência) + 2 semanas reais de commute 06:30/07:30/08:30 na Bandeirantes até as duas âncoras. Sem isso, o parecer é hipótese bem fundamentada, não fato vivido.
+### 0.1 Cotação de tempos (sintetizada — validar no Maps com o H6)
+
+Não há API histórica pública para esses horários exatos. Cotação abaixo = distância + padrão pós-pico (AutoBAn, CET, boletins Raposo). Use como planejamento; confirme 2–3 semanas reais.
+
+#### Itupeva (Bandeirantes) — dia presencial típico
+
+| Trecho | Saída sugerida | Tempo típico | Faixa ruim |
+|---|---|---|---|
+| Casa → FSB Itaim (chegar 10h30) | **08:50–09:10** | **1h20–1h40** | até ~1h55 |
+| FSB → Claro Verbo Divino | ~10h35 | **15–25 min** | até 35 min |
+| Claro → FSB (sair 20h) | 20h00 | **15–30 min** | até 40 min |
+| FSB → casa Itupeva | ~20h25 | **1h15–1h40** | até ~1h55 |
+| **Total volante no dia** | | **~3h05–4h15** | |
+| Em casa de novo | | **~21h45–22h20** | |
+
+Pedágio: **1 praça** ida + 1 volta ≈ **R$ 28,60–29,00/dia** (Motiva Autoban 01/07/2026: Itupeva R$ 14,30 ou Campo Limpo/Caieiras R$ 14,50).
+
+#### Granja Viana (Raposo) — mesmo roteiro
+
+| Trecho | Saída sugerida | Tempo típico | Faixa ruim |
+|---|---|---|---|
+| Casa → FSB (10h30) | **09:20–09:40** | **50–75 min** | até ~1h30 (Raposo ainda pode enrolar) |
+| FSB → Claro | ~10h35 | **15–25 min** | 35 min |
+| Claro → FSB (20h) | 20h00 | **15–30 min** | 40 min |
+| FSB → casa | ~20h25 | **50–80 min** | até ~1h40 |
+| **Total volante** | | **~2h10–3h30** | |
+| Pedágio | | **R$ 0** | |
+
+Às 10h e após 20h a Raposo **melhora**, mas não zera o caráter “semáforo + acessos a cada 350 m” do trecho urbano (estudo Nova Raposo / Agência SP).
+
+#### Sorocaba Campos do Conde — mesmo roteiro
+
+| Trecho | Saída sugerida | Tempo típico |
+|---|---|---|
+| Casa → FSB (10h30) | **08:20–08:45** | **1h45–2h20** |
+| Urbano FSB↔Claro | | igual (~15–30 min cada) |
+| FSB → casa após 20h25 | | **1h40–2h20** |
+| **Total volante** | | **~4h–5h+** |
+| Pedágio Castello ida+volta | | **~R$ 39/dia** |
+
+### 0.2 Custo mensal recalculado (H6 HEV + 3×/semana + carona)
+
+**Premissas novas**
+
+| Item | Valor | Fonte |
+|---|---|---|
+| Dias presenciais | **12/mês** (3×/semana × 4) | Caso |
+| Km/dia (casa→Itaim→Claro→Itaim→casa) | Itupeva **~196** · GV **~80** · Sorocaba **~220** | Rotas |
+| Consumo H6 HEV2 (gasolina) | **12 km/l** misto conservador | Inmetro estrada 11,4 / cidade 14,7–15,8; testes reais ~13,7–15,6 — uso 12 por ser SUV carregado + rodovia |
+| Gasolina | R$ 6,42/L | ANP 12–18/07/2026 |
+| Pedágio/dia | ITU R$ 29 · GV 0 · SOR R$ 39 | Tarifas 2026 |
+| Desgaste | R$ 0,22/km | SUV + km |
+| Cond.+IPTU/12+util. | igual v2 | |
+
+| | Itupeva | Granja Viana | Sorocaba |
+|---|---:|---:|---:|
+| Km/mês | 2.352 | 960 | 2.640 |
+| Combustível H6 | **R$ 1.258** | **R$ 514** | **R$ 1.412** |
+| Pedágio | **R$ 348** | 0 | **R$ 472** |
+| Desgaste | R$ 517 | R$ 211 | R$ 581 |
+| **Subtotal mobilidade** | **~R$ 2.120** | **~R$ 725** | **~R$ 2.465** |
+| Cond.+IPTU+util. | ~1.450 | ~1.500 | ~1.090 |
+| **Total mensal** | **~R$ 3.570** | **~R$ 2.225** | **~R$ 3.555** |
+
+Com o H6 e 3×/semana, **Itupeva e Sorocaba empatam em boleto**; Itupeva ganha em tempo (~1h a menos de volante/dia) e qualidade de pista. Granja continua mais barata em ~R$ 1.300/mês — preço que você paga por **menos casa/terreno** no teto de R$ 1,7 mi.
+
+Comparado ao A3 1.4 no mesmo roteiro Itupeva (~9 km/l misto congestionado/rodovia): combustível cairia de ~R$ 1.680 para ~R$ 1.258 (−~R$ 420/mês) só na troca do carro, além da isenção de rodízio.
+
+### 0.3 Internet em Itupeva — é ruim?
+
+**Não dá para dizer “Itupeva tem internet ruim” de forma geral.** O que existe:
+
+- Cobertura fibra **sim**: Alares (líder em acessos), Claro, Vivo, Desktop (Anatel / Radar da Telecom, mai/2026).
+- Alares tem volume alto de reclamações no Reclame Aqui (nota ~7,5 / “Bom”, milhares de tickets) — padrão de ISP grande, **não prova** que o seu condomínio será ruim.
+- Para o seu uso (dev + LLM local em GPU + jogos): o risco real é **(a)** o condomínio não deixar entrar a operadora boa, **(b)** FTTH vs “fibra até o armário”, **(c)** queda de energia (CPFL — mitigue com UPS/nobreak).
+
+**Protocolo antes de comprar (3–4 anos à frente, mas teste já):**
+1. Lista curta de 3 condomínios (Pecan, Vida Real, Phytus, Paineiras…).
+2. Síndico: quais ISPs têm duto hoje.
+3. Vizinho: speedtest (download **e upload**), ping para 1.1.1.1 / cloud, histórico de queda.
+4. Preferir ter **pelo menos duas** opções (ex.: Claro + Vivo ou Desktop). Se só Alares → exigir teste de 30 dias ou plano empresarial.
+5. Orçar UPS online para o rack/GPU (energia é tão crítico quanto fibra).
+
+Se o teste falhar num condomínio, **troca de condomínio**, não necessariamente de cidade.
+
+### 0.4 O que fazer nos próximos 3–4 anos (enquanto o H6 chega e a casa não)
+
+1. **Este mês:** pegar o H6; confirmar isenção rodízio (emplacamento SP) e, se flex 2027/elegível, isenção IPVA em SP (teto ~R$ 261 mil — HEV2 na faixa).
+2. **Próximos 2–3 meses:** 6–9 corridas reais no roteiro 10h30/20h saindo de Itupeva (Airbnb/amigos/visita a condomínio) **e** 3–4 da Granja no mesmo horário — comparar relógio **e** estresse.
+3. **2027–2028:** acompanhar obras Ecovias na Raposo (pode melhorar Granja) e preços; não travar preço mental de 2026.
+4. **2028–2029:** comprar só depois de fibra validada no imóvel final.
+
+### 0.5 Resposta direta às suas perguntas
+
+| Pergunta | Resposta |
+|---|---|
+| Dá para cotar 10h30 / 20h? | Sim — tabela §0.1. Itupeva: sair ~09h, voltar em casa ~22h; volante ~3–4h no dia. |
+| Internet é ruim? | **Não como regra da cidade.** É risco de **condomínio/ISP**. Testar. |
+| 3×/semana muda a conta? | Muito. Mobilidade Itupeva cai para ~R$ 2,1 mil/mês com H6. |
+| H6 HEV ajuda? | Sim: consumo, rodízio isento, IPVA possivelmente isento (flex elegível). |
+| Casa em 3–4 anos? | Ideal: use o H6 para falsificar a tese antes de amarrar R$ 1,7 mi. |
+
+---
+
+## Parecer estrutural (contexto v2 — pico 07:30)
+
+Para o perfil antigo (picos 07:30 + 3+2 carros separados), a ordem também era Itupeva > Granja > Sorocaba. Com o roteiro 10h30/20h + H6, **Itupeva fica ainda mais confortável** nessa posição.
+
+1. **Itupeva (via Bandeirantes)** — melhor equilíbrio imóvel × qualidade da estrada × custo no cenário real.  
+2. **Granja Viana** — só se aparecer imóvel excepcional no teto **e** o teste na Raposo às 10h/20h for claramente melhor.  
+3. **Sorocaba** — melhor cidade/casa, pior dia de trabalho na estrada.
+
+**Por que a v1 enviesava:** tratava “mais perto em km” (Granja) como vantagem automática. Raposo no pico é gargalo; no seu horário melhora, mas o produto imobiliário no teto de R$ 1,7 mi continua pior que Itupeva.
 
 ---
 
