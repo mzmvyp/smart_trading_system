@@ -441,7 +441,8 @@ Itupeva **não** está R$ 211 mil mais barata que a GV no preço de lista — es
 1. **Semana 1–2:** sair de um condomínio candidato em Itupeva (Pecan / Vida Real / Phytus / Paineiras) às 06:30, 07:30 e 08:30, Bandeirantes → Claro e → Berrini; repetir retornos 17:30/18:30. Anotar P50 e P90.  
 2. **Mesma rotina na Granja** num Horizontal Park / Pinus no teto — comparar estresse, não só o relógio.  
 3. CEP + síndico: ISPs com duto; teste upload/ping; histórico de queda.  
-4. Cotar **Assuex** mensalista Itupeva→Berrini e →Santo Amaro.  
+4. Cotar **Assuex** WhatsApp (11) 99914-2884 — mensalista Itupeva→Berrini/Verbo Divino e Faria Lima (mesmo sabendo que a volta ~17h20 não casa com 20h).
+5. Se olhar Granja a sério: filtrar **km 26** (SP II / Granja II) no teto R$ 1,5 mi **e** comparar com 2–3 do km 23; cotar fretado local só como plano B.  
 5. Vet 24h de madrugada a partir do condomínio.  
 6. Três cães: regimento interno.  
 7. Só depois abrir Sorocaba se (1)–(2) desapontarem.
